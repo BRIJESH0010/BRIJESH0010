@@ -3,7 +3,11 @@
 </a><a href="https://github.com/BRIJESH0010?tab=followers">
 <img src="https://img.shields.io/github/followers/BRIJESH0010?style=for-the-badge&logo=github&color=00D4FF" />
 </a></div>---
-
+<div align="center">
+  <img src="./assets/galaxy-banner.png"
+       width="100%"
+       alt="Brijesh Galaxy Developer Banner"/>
+</div>
 👨‍💻 About Me
 
 const brijesh = {
