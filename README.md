@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/github/followers/BRIJESH0010?style=for-the-badge&logo=github&color=00D4FF" />
 </a></div>---
 <div align="center">
-  <img src="./assets/galaxy-banner.png"
+  <img src="./file_00000000991c82119c1a030863c369a3.png"
        width="100%"
        alt="Brijesh Galaxy Developer Banner"/>
 </div>
