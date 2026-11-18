@@ -11,7 +11,7 @@
 👨‍💻 About Me
 
 const brijesh = {
-    role: "Junior Software Developer",
+    role: "Software Developer",
     location: "India 🇮🇳",
     frontend: ["Next.js", "React.js", "JavaScript", "HTML", "CSS"],
     backend: ["Node.js", "Express.js", "Python", "FastAPI"],
